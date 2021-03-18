@@ -1,0 +1,27 @@
+THE WEBFONTS AND THE ALL.CSS FILL IS ZIPED FILE OF AWESOM WEBSITE DOWNLOADED
+WE CAB USE FROM PHONTS AND ICONS THEO THE WEBSITE DOCS SAMPLE
+
+2- THE FONTS FOLDER IS DOWNLOADED FROM GOOGLE FONT AND THEN  THE NEW FILE 
+   IN THE NAME OS FONTS.CSS CREATED TO BUILD FONT-FACE 
+   BY IMPORTING THE FONTS.CSS IN THE STYLE.CSS WE CAN USE FONTS IN 
+   OUR PROJECT
+   FOR BETTER USAGE AND BEING CURIUS WE CREAT VARIABEL FOR THOS WITH CURSIVE 
+   WORD 
+3- WE ALSO CREAT COLOR VARIABLE INCASE HEX VALUE TO AVOID REPEATING AGAIN 
+   AND AGAIN
+4- FOR THE TOGGLE MENUE CLICKABLE USE GO DOWNLOAD THE JQUERY ZEPPED FILE 
+   FROM THE ADDRESS  "Download the compressed, production jQuery 3.5.1"
+   YOU CAN COPY THE CONTENTS OF THAT FILE AND THEN CREAT  A FIL 
+   IN JS IN THE NAME OF jquery.min.js the  paste the code in thate 
+   or you can name the file with jquery version 
+5- to use the jquery link the the jquery file befor the js link in 
+   index.html
+6 - after the first main section then go for "owel carosuel" library of jaquery
+    to design the carusel
+7 after downloading the library just put two files in th css forlder 
+   1-owl.carousel.min
+   2-owl.theme.default.min 
+8- then you should paste th "owel.carousel.min" inside th js folder too
+   finaly link th
+9  at the end link the two new css and one js file inside the index.html 
+   to use those
